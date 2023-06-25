@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yogesh Pol
 - 👀 I’m interested in Data Analyst, Business Analyst, Finance Analyst, Analyst
 - 🌱 I’m currently learning Excel, Power BI, SQL, Python
-# - 💞️ I’m looking to collaborate on ...
+<!--- 💞️ I’m looking to collaborate on ... ---> 
 - 📫 How to reach me "https://www.linkedin.com/in/yogesh-pol/"
 
 <!---
