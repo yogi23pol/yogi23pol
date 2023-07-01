@@ -1,4 +1,8 @@
                                                                👋 Hi, I'm Yogesh
+              I regularly upload solutions for Leetcode SQL problems, as well as Data Analyst-related projects, datasets, and notes. 
+              By following me, you can stay updated and grow alongside me in this journey. I am enthusiastic about sharing the 
+              knowledge and experiences I have gained through my skills to contribute to your learning and professional development.
+
 
 - 👨‍💻 Currently, I am actively engaged in working on diverse Power BI projects, continuously enhancing my skills and knowledge in this field.
 - 👀 I am highly passionate about roles in Data Analysis, Business Analysis, Finance Analysis, and other analytical domains, where I can apply my expertise to derive valuable insights.
