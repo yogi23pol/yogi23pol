@@ -1,10 +1,13 @@
                                                        👋 Hi, I'm Yogesh
                                                                
-            I regularly upload solutions for Leetcode SQL problems, as well as Data Analyst-related projects, 
-            datasets, and notes. By following me, you can stay updated and grow alongside me in this journey. 
-            I am enthusiastic about sharing the knowledge and experiences I have gained through my skills 
-            to contribute to your learning and professional development.
-
+    
+                    I consistently provide solutions for Leetcode SQL problems, and I have exciting plans to upload a 
+                    wide range of Data Analyst-related projects on SQL, Excel, Power BI, and Python, along with datasets
+                    and notes. By following me, you can stay up-to-date and grow alongside me on this enriching journey. 
+                    I am deeply passionate about sharing the knowledge and experiences I have gained through my skills 
+                    to support your learning and professional development. Together, let's embark on a path of 
+                    continuous growth and success.
+- 👨‍💻 Currently, I am actively engaged in working on diverse Power BI projects, continuously enhancing my skills and knowledge in this field.
 
 - 👨‍💻 Currently, I am actively engaged in working on diverse Power BI projects, continuously enhancing my skills and knowledge in this field.
 - 👀 I am highly passionate about roles in Data Analysis, Business Analysis, Finance Analysis, and other analytical domains, where I can apply my expertise to derive valuable insights.
@@ -22,6 +25,3 @@
 yogi23pol/yogi23pol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-
-
